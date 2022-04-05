@@ -1,2 +1,2 @@
 # Projeto-Spotify-Clone-
-Projeto Acadêmico
+Projeto Acadêmico do website do Spotify.
